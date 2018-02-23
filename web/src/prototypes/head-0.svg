@@ -1,0 +1,14 @@
+<svg id="head" 
+  xmlns="http://www.w3.org/2000/svg" 
+  xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="640" viewBox="0 0 640 640">
+  <defs>
+    <linearGradient id="linear-gradient" x1="320" y1="507.2" x2="320" y2="132.58" gradientTransform="matrix(-1, 0, 0, 1, 640, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a1a1a"/>
+      <stop offset="0.25" stop-color="#0d0d0d"/>
+      <stop offset="0.58" stop-color="#030303"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <title>head-0</title>
+  <path d="M320,507.2c201.48,0,258.37-92.82,243-165.3-12.58-59.4-22.77-75.68-34.28-107.63C511,185,455.53,132.58,320,132.58S129,185,111.26,234.27c-11.51,32-21.7,48.22-34.28,107.63C61.63,414.37,118.52,507.2,320,507.2Z" style="fill:url(#linear-gradient)"/>
+</svg>

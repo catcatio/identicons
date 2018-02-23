@@ -1,0 +1,11 @@
+<svg id="eyes_0" 
+  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
+  <defs>
+    <style>.cls-1{fill:#fff;}.cls-2{fill:#231f20;}</style>
+  </defs>
+  <title>prototype</title>
+  <circle class="cls-1" cx="203.33" cy="325.63" r="61.99"/>
+  <circle class="cls-2" cx="203.33" cy="325.63" r="43.83"/>
+  <circle class="cls-1" cx="436.67" cy="325.63" r="61.99"/>
+  <circle class="cls-2" cx="436.67" cy="325.63" r="43.83"/>
+</svg>
